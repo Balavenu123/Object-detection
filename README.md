@@ -27,6 +27,3 @@ YOLOv3 Video Detection
 ## Acknowledgments
 
 This implementation is based on the YOLOv3 implementation by Joseph Redmon. The COCO dataset is provided by Microsoft COCO.
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
