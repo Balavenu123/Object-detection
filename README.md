@@ -1,4 +1,4 @@
-## YOLOv3 Object Detection for COCO Dataset on Videos
+## Object Detection for COCO Dataset on Videos
 
 This is a Python implementation of object detection using the YOLOv3 algorithm on videos with the COCO dataset. The COCO dataset contains images with more than 80 different object categories such as person, car, bicycle, etc. The implementation detects objects in each frame of a video and draws bounding boxes around them with their respective labels and confidence scores.
 Dependencies
