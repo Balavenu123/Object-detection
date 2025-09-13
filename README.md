@@ -14,11 +14,6 @@ Dependencies
     Download the YOLOv3 configuration file: yolov3.cfg
     Download the COCO dataset labels file: coco.names
 
-## Usage
-
-    Navigate to the cloned repository: cd repo
-    Run the script with the video file as the argument: python yolov3_video_detection.py path/to/video/file.mp4
-
 ## Results
 
 The script will save each frame with the bounding boxes and labels drawn onto them in a new folder called frames. The video will also be displayed in a window with the detected objects and their respective confidence scores.
